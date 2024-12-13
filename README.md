@@ -1,2 +1,2 @@
 # wb
-Will Blanto portfolio site,website build till we build a new one.
+Will Blanton portfolio site, old website build till we build a new one.
