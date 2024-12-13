@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="WB-ICON" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="350px" height="350px" viewBox="0 0 350 350" enable-background="new 0 0 350 350" xml:space="preserve">
+<g id="diamond">
+	
+		<rect x="101.554" y="101.553" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -72.4867 175.0009)" fill="#E1E3E4" width="146.891" height="146.891"/>
+	<polygon fill="#A7ABAB" points="278.867,174.999 175,278.867 71.133,174.999 	"/>
+	<g>
+		<defs>
+			
+				<rect id="SVGID_1_" x="101.554" y="101.553" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -72.4867 175.0009)" width="146.891" height="146.891"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="175" y="174.999" clip-path="url(#SVGID_2_)" fill="#7F7F7F" width="114.331" height="126.797"/>
+	</g>
+	<g>
+		<defs>
+			
+				<rect id="SVGID_3_" x="101.554" y="101.553" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -72.4867 175.0009)" width="146.891" height="146.891"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<rect x="175" y="48.203" clip-path="url(#SVGID_4_)" fill="#CFCECE" width="114.331" height="126.796"/>
+	</g>
+</g>
+<path id="B" fill="#333333" d="M224.731,114c20.252,0,28.241,9.658,28.241,28.786v6.129c0,13.744-3.902,22.286-15.236,25.815
+	c4.365,1.219,26.496,1.697,26.496,25.599v13.211c0,19.502-9.477,30.459-29.728,30.459h-59.272V114H224.731z"/>
+<g id="W">
+	<g>
+		<g>
+			<g>
+				<g>
+					<path fill="#3C948B" d="M134.232,186.717L106.435,244v-51.963l18.103-38.914h9.695V186.717z M106.435,244H84.232V114h22.202
+						V244z M134.232,153.124h9.695l18.103,38.914V244l-27.798-57.283V153.124z M162.03,114h22.202v130H162.03V114z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
