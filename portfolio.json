@@ -1,0 +1,52 @@
+[
+	{
+		"image": "http://placehold.it/350x150",
+		"name": "Art Week 2014",
+		"categories": ["Branding", "App Development"],
+		"url": "portfolio/portfolio-1.html"
+	},
+	{
+		"image": "images/portfolio/portfolio-2.jpg",
+		"name": "FineWine Company Design",
+		"categories": ["Web Design", "Photography"],
+		"url": "portfolio/portfolio-1.html"
+	},
+	{
+		"image": "images/portfolio/portfolio-3.jpg",
+		"name": "Branding for Glassimatic",
+		"categories": ["Branding", "Photography"],
+		"url": "portfolio/portfolio-1.html",
+		"large": true
+	},
+	{
+		"image": "images/portfolio/portfolio-4.jpg",
+		"name": "Soul Kitchen Poster",
+		"categories": ["Web Design", "App Development"],
+		"url": "portfolio/portfolio-1.html"
+	},
+	{
+		"image": "images/portfolio/portfolio-5.jpg",
+		"name": "Packaging Design Details",
+		"categories": ["Branding", "Web Design"],
+		"url": "portfolio/portfolio-1.html",
+		"large": true
+	},
+	{
+		"image": "images/portfolio/portfolio-6.jpg",
+		"name": "Minimalistic Logo Design",
+		"categories": ["App Development", "Branding"],
+		"url": "portfolio/portfolio-1.html"
+	},
+	{
+		"image": "images/portfolio/portfolio-7.jpg",
+		"name": "Creative Print Design",
+		"categories": ["Branding", "Photography"],
+		"url": "portfolio/portfolio-1.html"
+	},
+	{
+		"image": "images/portfolio/portfolio-8.jpg",
+		"name": "Clockwork Website",
+		"categories": ["Web Design", "App Development"],
+		"url": "portfolio/portfolio-1.html"
+	}
+]
